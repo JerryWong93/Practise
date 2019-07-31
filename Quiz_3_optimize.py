@@ -21,6 +21,7 @@
 #
 # Written by Xiaowen Huang
 # This version is applying the classical algorithm Maximum histogram area
+# more optimal
 
 from random import seed, randrange
 import copy
