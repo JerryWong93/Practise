@@ -3,7 +3,7 @@ Input n, n digital read,
 for all the odd number obtained by adding the exchange position,
 the output processing sequence lexicographically smallest
 
-TRICK:
+TRICK WAY:
 If this list contains some odd elements and some even elements,
 which means all the elements can be any positions.
 Therefore, we just need to sort the list.
