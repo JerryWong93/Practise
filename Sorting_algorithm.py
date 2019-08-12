@@ -1,7 +1,13 @@
 """
+ Bubble sorting:
+ O(n**2)
+
  Quick sorting:
  Worst case: O(n**2)
  Average case: O(n logn)
+ 
+ Merge sorting:
+ O(n logn)
 """
 from copy import deepcopy as dc
 
