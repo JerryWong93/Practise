@@ -5,7 +5,7 @@
  Quick sorting:
  Worst case: O(n**2)
  Average case: O(n logn)
- 
+
  Merge sorting:
  O(n logn)
 """
